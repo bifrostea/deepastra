@@ -1,0 +1,1 @@
+"use strict";(self.rspackChunkdeepastra=self.rspackChunkdeepastra||[]).push([[3258],{7249(e,a,s){s.d(a,{openUrl:()=>p});var n=s(5719);async function p(e,a){await (0,n.lA)("plugin:opener|open_url",{url:e,with:a})}}}]);

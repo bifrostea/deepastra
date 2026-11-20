@@ -1,0 +1,1 @@
+"use strict";(self.rspackChunkdeepastra=self.rspackChunkdeepastra||[]).push([[9261],{5820(e,r,s){s.d(r,{createArchitectureServices:()=>a.S});var a=s(3738);s(7127)}}]);
